@@ -79,3 +79,5 @@ else 'LowStock'
 end as Stock_Level
 from Products;
 ```
+### Result
+The query categorizes products based on stock levels into "OverStock," "AdequateStock," and "LowStock," highlighting inventory trends and identifying potential risks for restocking.
