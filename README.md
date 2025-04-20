@@ -1,5 +1,9 @@
 # FirstSales Analysis Project
-## Overview
+## Table of Content
+- [Project Overview](#Project-Overview)
+- [Key Features](#Key-Features)
+- [Recommendations](#Recommendations)
+## Project Overview
 This project involves exploratory data analysis (EDA) of a sales company dataset called FirstSales using SQL. The dataset is structured into four tables:
 
 Customer: Contains customer details.
@@ -81,3 +85,15 @@ from Products;
 ```
 ### Result
 The query categorizes products based on stock levels into "OverStock," "AdequateStock," and "LowStock," highlighting inventory trends and identifying potential risks for restocking.
+
+## Recommendations
+
+-Target High-Value Customers – If the query identifies customers with spending above a certain threshold, prioritize them with exclusive offers, loyalty programs, or VIP services.
+
+-Improve Pricing Strategies – If many customers fall within the mid-range spending bracket, consider pricing adjustments or bundled offers to encourage higher transactions.
+
+-Optimize Marketing Efforts – Segment customers based on purchase history and tailor promotions to different groups. High spenders might appreciate premium offerings, while lower spenders may respond well to discounts.
+
+-Enhance Customer Retention – Look for patterns in repeat purchases. Offering incentives for returning customers or personalized recommendations can increase retention rates.
+
+-Expand Popular Product Lines – If the data shows strong sales in certain categories, invest more in marketing and stocking those products while phasing out underperforming ones.
